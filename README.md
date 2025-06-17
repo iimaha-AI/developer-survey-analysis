@@ -13,6 +13,11 @@ We performed exploratory data analysis (EDA), data cleaning, and built a machine
 
 This project was part of a data storytelling and communication task, and results were also summarized in a blog post.
 
+## Dataset
+
+The data used in this project comes from the [Stack Overflow Developer Survey]([https://insights.stackoverflow.com/survey](https://survey.stackoverflow.co/2024/)).  
+It includes responses from thousands of developers worldwide on their tools, experience, education, and salary.
+
 ##  Key Analyses
 
 - **Top Desired Developer Tools** (e.g., Docker, React, AWS)
