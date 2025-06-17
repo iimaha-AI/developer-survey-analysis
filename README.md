@@ -15,8 +15,9 @@ This project was part of a data storytelling and communication task, and results
 
 ## Dataset
 
-The data used in this project comes from the [Stack Overflow Developer Survey]([https://insights.stackoverflow.com/survey](https://survey.stackoverflow.co/2024/)).  
+The data used in this project comes from the [Stack Overflow Developer Survey](https://insights.stackoverflow.com/survey).  
 It includes responses from thousands of developers worldwide on their tools, experience, education, and salary.
+
 
 ##  Key Analyses
 
