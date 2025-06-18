@@ -44,8 +44,9 @@ After feature engineering and regularization (Ridge), the final performance was:
 ## Blog Post
 
 For a full breakdown of the insights and visualizations:  
-🔗 [Read the Medium article here][([[https://your-medium-link-here.com](https://medium.com/@maam66282/what-developers-want-tools-learning-paths-and-ai-adoption-a-data-science-project-5f8924b4fd86))  ](https://medium.com/@maam66282/what-developers-want-tools-learning-paths-and-ai-adoption-a-data-science-project-5f8924b4fd86)
-](https://medium.com/@maam66282/what-developers-want-tools-learning-paths-and-ai-adoption-a-data-science-project-5f8924b4fd86)
+
+🔗 [What Developers Want: Tools, Learning Paths, and AI Adoption – A Data Science Project](https://medium.com/@maam66282/what-developers-want-tools-learning-paths-and-ai-adoption-a-data-science-project-5f8924b4fd86)
+
 ##  Files
 
 - `developer_survey_analysis.ipynb`: Main notebook with all steps
